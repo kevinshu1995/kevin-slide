@@ -1,0 +1,7 @@
+.slidev-vclick-target {
+    transition: all 300ms ease;
+}
+
+.slidev-vclick-hidden {
+    transform: translateX(10%);
+}
